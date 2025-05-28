@@ -27,3 +27,4 @@ class PostUpdateRequest extends FormRequest
         ];
     }
 }
+
